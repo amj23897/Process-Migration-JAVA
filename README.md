@@ -6,4 +6,4 @@ Function call to migratable process on demand : invoke a function of a running m
 
 Network communication scalable. Generalized message structure and dispatcher makes it possible to add any type of message to the framework conveniently.
 
-Load balancer friendly. The control manager class (Server Operator class) is loosely decoupled from all other parts in server side. There is scope to a custom load balancer (future work! ).
+Load balancer friendly. The control manager class (Server Operator class) is loosely linked from other parts of server side. There is scope to a custom load balancer (future work! ).
